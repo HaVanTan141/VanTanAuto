@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.html$ - [L]
+RewriteCond %{src\pages\Login.js} !-f
+RewriteCond %{src\pages\Login.js} !-d
+RewriteRule . /index.html [L]
