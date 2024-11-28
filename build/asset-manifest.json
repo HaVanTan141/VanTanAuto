@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VanTanAuto/static/css/main.d4164cd1.css",
+    "main.js": "/VanTanAuto/static/js/main.c7fe33c6.js",
+    "index.html": "/VanTanAuto/index.html",
+    "main.d4164cd1.css.map": "/VanTanAuto/static/css/main.d4164cd1.css.map",
+    "main.c7fe33c6.js.map": "/VanTanAuto/static/js/main.c7fe33c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4164cd1.css",
+    "static/js/main.c7fe33c6.js"
+  ]
+}
