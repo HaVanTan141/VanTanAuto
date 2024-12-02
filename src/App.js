@@ -7,6 +7,7 @@ import ContactInfo from "./components/ContactInfo";
 import Header from "./components/Header";
 import Register from "./pages/Register";
 import Footer from "./components/Footer";
+import CarDetail from "./pages/CarDetail"; // Add this import
 
 const App = () => {
   return (
@@ -18,6 +19,7 @@ const App = () => {
         <Route path="/login" element={<Login />} />
         <Route path="/contact" element={<ContactInfo />} />
         <Route path="/register" element={<Register />} />
+        <Route path="/car/:id" element={<CarDetail />} /> {/* Add this route */}
       </Routes>
       <Footer />
     </Router>

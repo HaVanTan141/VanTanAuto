@@ -1,0 +1,1 @@
+<Link to={`/car/${carId}`}>View Details</Link>
