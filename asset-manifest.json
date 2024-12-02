@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/VanTanAuto/static/css/main.0141de72.css",
-    "main.js": "/VanTanAuto/static/js/main.2ef7db3f.js",
+    "main.js": "/VanTanAuto/static/js/main.820dc55c.js",
     "index.html": "/VanTanAuto/index.html",
     "main.0141de72.css.map": "/VanTanAuto/static/css/main.0141de72.css.map",
-    "main.2ef7db3f.js.map": "/VanTanAuto/static/js/main.2ef7db3f.js.map"
+    "main.820dc55c.js.map": "/VanTanAuto/static/js/main.820dc55c.js.map"
   },
   "entrypoints": [
     "static/css/main.0141de72.css",
-    "static/js/main.2ef7db3f.js"
+    "static/js/main.820dc55c.js"
   ]
 }
